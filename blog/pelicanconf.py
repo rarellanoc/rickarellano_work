@@ -1,6 +1,6 @@
 AUTHOR = 'Rick Arellano'
 SITENAME = 'Rick Arellano'
-SITEURL = 'https://rickarellano.work/blog'
+SITEURL = 'https://blog.rickarellano.work'
 
 PATH = 'content'
 
