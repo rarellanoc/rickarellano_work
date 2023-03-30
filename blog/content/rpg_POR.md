@@ -39,5 +39,7 @@ you will want naturally to generate something for yourself. And, this doesn't ha
 
 *Check out the full course on how to double your organic reach in social media. Get to know the RPG model, and how to increase your presence online.*
 
-*RPG: a model for ‘being present’ online.*
+*RPG: a model for ‘being present’ online.* 
+
+[Learn More](https://rickarellano.work/rpg 'The RPG model')
 
