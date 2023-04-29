@@ -134,7 +134,7 @@ header a:hover {
   letter-spacing: 0.1em;
 }
 a:hover{
-    color:#2196F3;
+    color:#312413;
 }
 
 .downloads a:last-child {
@@ -169,7 +169,7 @@ header h1 {
   font-family: 'Playfair Display', "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
   line-height:1.5em;
   color: #fff;
-  background-color: #2196F3;
+  background-color: #312413;
   padding: 0.2em;
 }
 
@@ -212,7 +212,7 @@ address{
 
 .post-info abbr, address, .article-footer abbr, address{
     color: #fff;
-    background-color: #2196F3;
+    background-color: #312413;
     padding: 0.2em;
 }
 
